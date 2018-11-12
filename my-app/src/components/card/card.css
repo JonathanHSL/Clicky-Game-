@@ -1,0 +1,33 @@
+.card {
+    background-size: cover;
+    
+   
+    margin: 8px 25px;
+    border: 5px solid white;
+    
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    cursor: pointer;
+  
+  
+}
+
+
+.card:hover .card{
+    margin-top: -10px;
+    
+}
+
+.card:hover .card-image::after { 
+    content:'';
+    display: block;
+    position: absolute;
+    left: 20%;
+    bottom: 30px;
+
+    
+    height: 8px;
+    background: transparent;
+    
+    box-shadow: 0 50px 40px rgba(255, 255, 255, 0.61);
+
+};

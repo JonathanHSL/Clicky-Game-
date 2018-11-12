@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891758-001bulbasaur.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://static.giantbomb.com/uploads/scale_small/0/6087/2438704-1202149925_t.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891764-007squirtle.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://static.giantbomb.com/uploads/scale_small/0/6087/2437349-pikachu.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891822-027sandshrew.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891827-058growlithe.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891681-133eevee.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1895869-150mewtwo.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1892692-149dragonite.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891631-016pidgey.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1898291-129magikarp.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1892134-054psyduck.png",
+      "clicked": false
+    }]
+    
